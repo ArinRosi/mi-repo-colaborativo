@@ -1,7 +1,4 @@
 Este es mi archivo inicial
-<<<<<<< HEAD
 Línea añadida en local en la tarea.
-=======
 Línea añadida desde GitHub en la tarea.
 Cambios hechos en GitHub
->>>>>>> b5f9a950d16a0ea6fb123433c0166e3a68ef0136
